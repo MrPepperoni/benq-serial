@@ -1,0 +1,13 @@
+{
+  "domain": "benq_serial",
+  "name": "Benq Serial",
+  "documentation": "https://github.com/MrPepperoni/benq-serial",
+  "issue_tracker": "https://github.com/MrPepperoni/benq-serial/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@MrPepperoni"],
+  "requirements": [],
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "version": "0.1.0"
+}
